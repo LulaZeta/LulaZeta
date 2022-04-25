@@ -13,7 +13,6 @@ const LulaZeta = {
 
     design: ["Photoshop", "Illustrator", "Ligthroom"],
     projects: ["Countries"],
-    currentlyLearning: "React Native",
     hobbies: ["travelling", "yoga", "running" ]
 };
 
