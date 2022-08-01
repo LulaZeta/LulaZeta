@@ -8,11 +8,11 @@ const LulaZeta = {
     stack: {
         frontEnd: ["JavaScript", "React.js", "Redux", "HTML5", "CSS", "Bootstrap"],
         backEnd: ["Node.js", "Express"],
-        dataBase: ["Sequelize", "PostgreSQL"],
+        dataBase: ["Sequelize", "PostgreSQL", "MongoDB"],
     },
 
     design: ["Photoshop", "Illustrator", "Ligthroom"],
-    projects: ["Countries"],
+    projects: ["Countries", "ML7E", "toDoList", "wheatherApp"],
     hobbies: ["travelling", "yoga", "running" ]
 };
 
