@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Luciana Zanetti
-A fullstack developer and photographer from Argentina.
+A Full Stack Programmer, graduated from Henry bootcamp, with skills in Javascript, React js, Redux, Express, Node js, SQL, Sequelize. and photographer from Argentina.
 
 
 
