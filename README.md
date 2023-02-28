@@ -74,6 +74,16 @@ const LulaZeta = {
          <div/>
        <div/>
        <li/>
+             <li>
+    <div >
+     <a href='https://github.com/LulaZeta/todo_list_fullstack' >toDo_List<a/> Proyecto Full Stack, realizado con MERN
+        <a href='https://github.com/LulaZeta/todo_list_fullstack' >
+        <div align="center">
+            <img src='https://github.com/LulaZeta/todo_list_fullstack/blob/main/toDoList.png?raw=true'  width=600>
+                 <a/>
+         <div/>
+       <div/>
+       <li/>
 <ul/>
 
 
