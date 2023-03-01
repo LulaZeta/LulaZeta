@@ -11,7 +11,7 @@ const LulaZeta = {
 
     design: ["Photoshop", "Illustrator", "Ligthroom"],
     projects: [ "Reservation", "Countries", "ML7E", "toDoList", "wheatherApp"],
-    hobbies: ["travelling", "yoga", "running" ]
+    hobbies: ["swimm", travel", "yoga", "run" ]
 };
 
 🔭 I’m currently working on e-commerce app
@@ -25,10 +25,11 @@ const LulaZeta = {
 <a href="https://github.com/https://github.com/LulaZeta" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luciana-zanetti-dev/" target="_blank">
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luciana-zanetti-dev/" target="_blank" >
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
+
 
 <br/>  
 
@@ -55,37 +56,21 @@ const LulaZeta = {
 
 # Proyectos
 
-<ul>
-  <li>
-   <div>
-    <a href="https://github.com/LulaZeta/reservation_app" target="_blank">Reservation App.</a>Aplicación Full Stack para reservar habitaciones de Hoteles en todo el mundo!!
-       <div align="center">
-       <img src='https://github.com/LulaZeta/reservation_app/blob/main/reserve_app_01.jpg'  width=600><a/>
-           <div/>
-       <div/>
-    <li/>
-    <li>
-    <div >
-     <a href='https://github.com/LulaZeta/ProyectoGrupal' >MEL7E<a/> Proyecto Full Stack realizado como entrega final grupal para bootcamp de Soy Henry
-        <a href='https://github.com/LulaZeta/ProyectoGrupal' >
+
+- [Reservation App. ](https://github.com/LulaZeta/reservation_app)Aplicación Full Stack para reservar habitaciones de Hoteles en todo el mundo!!
         <div align="center">
-            <img src='https://user-images.githubusercontent.com/77030730/179574008-a1ab6367-116b-49b7-92c5-e0593ef40145.jpg'  width=600>
+            <img src='https://github.com/LulaZeta/reservation_app/blob/main/images/reserve_app_01.jpg'  width=600><a/>
+           <div/>
+    <br/>
+- [MEL7E ](https://github.com/LulaZeta/ProyectoGrupal)Proyecto Full Stack realizado como entrega final grupal para bootcamp de Soy Henry
+        <div align="center">
+            <img src='https://user-images.githubusercontent.com/77030730/179574008-a1ab6367-116b-49b7-92c5-e0593ef40145.jpg' width=600>
                  <a/>
          <div/>
-       <div/>
-       <li/>
-             <li>
-    <div >
-     <a href='https://github.com/LulaZeta/todo_list_fullstack' >toDo_List<a/> Proyecto Full Stack, realizado con MERN
-        <a href='https://github.com/LulaZeta/todo_list_fullstack' >
-        <div align="center">
+  <br/>
+-[toDo List ](https://github.com/LulaZeta/todo_list_fullstack)Proyecto Full Stack, realizado con MERN
+  <div align="center">
             <img src='https://github.com/LulaZeta/todo_list_fullstack/blob/main/toDoList.png?raw=true'  width=600>
                  <a/>
          <div/>
-       <div/>
-       <li/>
-<ul/>
-
-
-
-
+    
