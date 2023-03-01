@@ -59,25 +59,39 @@ const LulaZeta = {
 
 - [Reservation App.  ](https://github.com/LulaZeta/reservation_app)`Aplicación Full Stack para reservar habitaciones de Hoteles en todo el mundo!!`
         <div align="center">
-            <img src='https://github.com/LulaZeta/reservation_app/blob/main/images/reserve_app_01.jpg'  width=600><a/>
-           <div/>
+        <a html='https://github.com/LulaZeta/reservation_app'>
+            <img src='https://github.com/LulaZeta/reservation_app/blob/main/images/reserve_app_01.jpg'  width=600>
+        <a/>
+          <div/>
     <br/>
 - [MEL7E  ](https://github.com/LulaZeta/ProyectoGrupal)`Proyecto Full Stack realizado como entrega final grupal para bootcamp de Soy Henry`
         <div align="center">
-            <img src='https://user-images.githubusercontent.com/77030730/179574008-a1ab6367-116b-49b7-92c5-e0593ef40145.jpg' width=600>
-                 <a/>
+            <a html='https://github.com/LulaZeta/ProyectoGrupal'>
+                     <img src='https://user-images.githubusercontent.com/77030730/179574008-a1ab6367-116b-49b7-92c5-e0593ef40145.jpg' width=600>
+              <a/>
          <div/>
              <br/>
  - [Tiendita  ](https://github.com/LulaZeta/tiendita-mern)`Proyecto Full Stack, realizado con MERN, e-commerce`
              <div align="center">
-            <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita01.jpg'  width=600>
+                 <a html='https://github.com/LulaZeta/tiendita-mern'>
+                         <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita01.jpg'  width=600>
                  <a/>
-         <div/>
+            <div/>
   <br/>
+                 
+                   
+  - [CountriesAct  ](https://github.com/LulaZeta/Countries--PI)`Proyecto Full Stack, realizado con React, Redux, Express, Sequelize`
+             <div align="center">
+                 <a html='https://github.com/LulaZeta/Countries--PI'>
+                    <img src='https://github.com/LulaZeta/Countries--PI/blob/main/img/countries_filtradoporcontinente.jpg'  width=600>
+                 <a/>
+            <div/>           
+    <br/>
                  
  - [toDo List  ](https://github.com/LulaZeta/todo_list_fullstack)`Proyecto Full Stack, realizado con MERN`
              <div align="center">
-            <img src='https://github.com/LulaZeta/todo_list_fullstack/blob/main/toDoList.png?raw=true'  width=600>
+                 <a html='https://github.com/LulaZeta/todo_list_fullstack'>
+                    <img src='https://github.com/LulaZeta/todo_list_fullstack/blob/main/toDoList.png?raw=true'  width=600>
                  <a/>
-         <div/>
+             <div/>
     
