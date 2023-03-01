@@ -67,6 +67,12 @@ const LulaZeta = {
             <img src='https://user-images.githubusercontent.com/77030730/179574008-a1ab6367-116b-49b7-92c5-e0593ef40145.jpg' width=600>
                  <a/>
          <div/>
+             <br/>
+ - [Tiendita  ](https://github.com/LulaZeta/tiendita-mern)`Proyecto Full Stack, realizado con MERN, e-commerce`
+             <div align="center">
+            <img src='https://github.com/LulaZeta/tiendita-mern/blob/main/img/tiendita01.jpg'  width=600>
+                 <a/>
+         <div/>
   <br/>
  - [toDo List  ](https://github.com/LulaZeta/todo_list_fullstack)`Proyecto Full Stack, realizado con MERN`
              <div align="center">
