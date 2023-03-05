@@ -11,7 +11,7 @@ const LulaZeta = {
 
     design: ["Photoshop", "Illustrator", "Ligthroom"],
     projects: [ "Reservation", "Countries", "ML7E", "toDoList", "wheatherApp"],
-    hobbies: ["swimm", travel", "yoga", "run" ]
+    hobbies: ["swim", travel", "yoga", "run" ]
 };
 
 🔭 I’m currently working on e-commerce app
