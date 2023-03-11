@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Luciana Zanetti
-A Full Stack Programmer, graduated from Henry bootcamp, with skills in Javascript, React js, Redux, Express, Node js, SQL, Sequelize. and photographer from Argentina.
+A Full Stack Programmer, graduated from Henry bootcamp, with skills in Javascript, React js, Redux, Express, Node js, SQL, Sequelize, MongoDB and photographer from Argentina.
 
 const LulaZeta = {
 
